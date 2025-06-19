@@ -1,0 +1,12 @@
+{ 
+	"name": "com.ccccradle.uutility",
+	"version": "1.0.0",   
+	"displayName": "UnityUtility",   
+	"description": "Utility for me",   
+	"unity": "6",   
+	"author": 
+	{     
+		"name": "CCCCradle",     
+		"email": ""   
+	}
+}
