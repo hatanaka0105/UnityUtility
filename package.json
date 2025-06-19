@@ -3,7 +3,7 @@
 	"version": "1.0.0",   
 	"displayName": "UnityUtility",   
 	"description": "Utility for me",   
-	"unity": "6",   
+	"unity": "2021.3.8",,   
 	"author": 
 	{     
 		"name": "CCCCradle",     
